@@ -1,0 +1,5 @@
+name = Link CSS
+description = Include CSS files using <link> element instead of @import.
+core = 7.x
+package = Development
+configure = admin/config/development/link-css
