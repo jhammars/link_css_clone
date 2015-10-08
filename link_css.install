@@ -8,6 +8,5 @@
  * Implements hook_uninstall().
  */
 function link_css_uninstall() {
-  variable_del('link_css_skip_system');
-  variable_del('link_css_warn_ie_limit');
+  \Drupal::service('config.factory')->getEditable('link_css.settings')->delete();
 }

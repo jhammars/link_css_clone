@@ -1,4 +1,4 @@
-# Link CSS module for Drupal 7
+# Link CSS module for Drupal 8
 
 Include CSS files using <link> element instead of @import. This is useful for
 live refresh workflows such as CodeKit which do not support files loaded with
