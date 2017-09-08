@@ -1,0 +1,6 @@
+{
+  "name": "drupal/link_css",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/link_css",
+  "license": "GPL-2.0+"
+}
